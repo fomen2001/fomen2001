@@ -1,16 +1,14 @@
 <h1 align="center">Salut, moi c’est Valdes Joël ( @fomen2001 ) 👋</h1>
 
 <p align="center">
-  Étudiant <b>M1 Data & IA</b> — orienté <b>Data Science</b>, <b>Computer Vision</b> & <b>Data Engineering</b>.<br/>
-  <b>Disponible pour une alternance à partir de janvier 2026</b> (Data Analyst / Data Scientist / Data Engineer).
+  Étudiant <b>M2 Data & IA</b> — orienté <b>Data Science</b>, <b>Computer Vision</b> & <b>Data Engineering</b>.<br/>
+  <b>Disponible pour une alternance dès maintenant</b> (Data Analyst / Data Scientist / Data Engineer).
 </p>
 
 <p align="center">
   <a href="https://fomen2001.github.io" target="_blank">🌐 Portfolio (GitHub Pages)</a> •
   <a href="mailto:valdes.joel.tsatsop@gmail.com">✉️ Email</a> •
-  <a href="https://x.com/joeltsatsop" target="_blank">𝕏 / Twitter</a> •
-  <a href="https://facebook.com/valdestsatsop" target="_blank">Facebook</a> •
-  <a href="https://www.linkedin.com/in/valdes-joel/" target="_blank">LinkedIn</a> <!-- 🔁 Mets ton vrai lien LinkedIn ici -->
+  <a href="https://www.linkedin.com/in/valdes-joel" target="_blank">LinkedIn</a> <!-- 🔁 Mets ton vrai lien LinkedIn ici -->
 </p>
 
 ---
@@ -64,7 +62,7 @@
 ---
 
 ## 🎯 Objectifs 2025 → 2026
-- Trouver une **alternance (12 mois)** dès **janvier 2026** en Data/IA/Cloud.
+- Trouver une **alternance (12 mois)** dès **maintenant** en Data/IA/Cloud.
 - Approfondir **MLOps** (tests, packaging, pipelines, Docker, CI/CD).
 - Monter en compétence **Cloud** (GCP/AWS), **Data Engineering** (ETL, orchestration).
 - Projets santé & smart city (explainability, déploiement de modèles).
@@ -74,7 +72,7 @@
 ## 🤝 Collaboration & Contact
 - Ouvert aux contributions, POCs, projets open-source, hackathons/datathons.  
 - **Contact rapide** : `valdes.joel.tsatsop@gmail.com`  
-- Réseaux : [Portfolio](https://fomen2001.github.io) · [X/Twitter](https://x.com/joeltsatsop) · [Facebook](https://facebook.com/valdestsatsop) · [LinkedIn](https://www.linkedin.com/in/valdes-joel/) <!-- 🔁 Mets le bon lien -->
+- Réseaux : [Portfolio](https://fomen2001.github.io) · [LinkedIn]([https://www.linkedin.com/in/valdes-joel) <!-- 🔁 Mets le bon lien -->
 
 ---
 
