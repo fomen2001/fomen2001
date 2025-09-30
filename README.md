@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Valdes Joël Fomena Tsatsop
-🎯 Étudiant M1 Data & IA | Data Scientist & Data Engineer en devenir  
-📅 Disponible en alternance dès janvier 2026  
+🎯 Étudiant M2 Data & IA | Data Scientist & Data Engineer en devenir  
+📅 Disponible en alternance dès maintenant  
 
 ## 🚀 Compétences
 - **Langages** : Python, SQL, R
