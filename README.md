@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://fomen2001.github.io" target="_blank">🌐 Portfolio (GitHub Pages)</a> •
-  <a href="mailto:valdes.joel.tsatsop@gmail.com">✉️ Email</a> •
-  <a href="https://www.linkedin.com/in/valdes-joel" target="_blank">LinkedIn</a> <!-- 🔁 Mets ton vrai lien LinkedIn ici -->
+  <a href="mailto:tsatsopjoelvaldes@gmail.com">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/valdes-joël-fomena-tsatsop" target="_blank">LinkedIn</a> <!-- 🔁 Mets ton vrai lien LinkedIn ici -->
 </p>
 
 ---
