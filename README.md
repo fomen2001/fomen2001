@@ -71,8 +71,8 @@
 
 ## 🤝 Collaboration & Contact
 - Ouvert aux contributions, POCs, projets open-source, hackathons/datathons.  
-- **Contact rapide** : `valdes.joel.tsatsop@gmail.com`  
-- Réseaux : [Portfolio](https://fomen2001.github.io) · [LinkedIn]([https://www.linkedin.com/in/valdes-joel) <!-- 🔁 Mets le bon lien -->
+- **Contact rapide** : `tsatsopjoelvaldes@gmail.com`  
+- Réseaux : [Portfolio](https://fomen2001.github.io) · [LinkedIn]([https://www.linkedin.com/in/valdes-joël-fomena-tsatsop) <!-- 🔁 Mets le bon lien -->
 
 ---
 
