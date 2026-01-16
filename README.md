@@ -2,7 +2,7 @@
 
 <p align="center">
   Étudiant <b>M2 Data & IA</b> — orienté <b>Data Science</b>, <b>Computer Vision</b> & <b>Data Engineering</b>.<br/>
-  <b>Disponible pour une alternance dès maintenant</b> (Data Analyst / Data Scientist / Data Engineer).
+  <b>En recherche active de stage de fin d'études</b> (Data Scientist / Data Engineer).
 </p>
 
 <p align="center">
